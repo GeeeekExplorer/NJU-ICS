@@ -1,0 +1,9 @@
+33 51 105 77
+DRAM stores each bit as charge on a capacitor.
+207 104 53 27 14 8 5 3
+23 704
+10 354NYoIVEl
+acdeffg
+5 2 3 4 1 7 6 8
+35
+
